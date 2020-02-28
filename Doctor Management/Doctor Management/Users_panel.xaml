@@ -1,0 +1,25 @@
+﻿<Window x:Class="Doctor_Management.users_panel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Doctor_Management"
+        mc:Ignorable="d"
+        Title="users_panel" Height="700.633" Width="1210.127">
+    <Grid Margin="0,0,2,3">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="395*"/>
+            <ColumnDefinition Width="397*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Users Panel" HorizontalAlignment="Left" Height="69" Margin="331,58,0,0" VerticalAlignment="Top" Width="517" Background="#FF41BDAC" FontSize="36" FontWeight="Bold" Padding="150,10,5,5" Foreground="#FFFBFBFB" Grid.ColumnSpan="2"/>
+        <Label Content="Name:" HorizontalAlignment="Left" Height="41" Margin="409,198,0,0" VerticalAlignment="Top" Width="116" Padding="30,5,5,5" FontSize="20" FontWeight="Bold" Background="#FFD3B4B4"/>
+        <Label Content="Password:" HorizontalAlignment="Left" Height="41" Margin="409,262,0,0" VerticalAlignment="Top" Width="116" Padding="20,5,5,5" FontSize="20" FontWeight="Bold" Background="#FFD3B4B4"/>
+        <TextBox x:Name="txt_id1" HorizontalAlignment="Left" Height="41" Margin="525,198,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="248" Padding="5,5,0,0" Background="#FFF1F1F1" FontSize="18" FontWeight="Bold" Grid.ColumnSpan="2"/>
+        <PasswordBox x:Name="pwb_pass1" HorizontalAlignment="Left" Height="41" Margin="525,262,0,0" VerticalAlignment="Top" Width="248" Padding="5,5,0,0" Background="#FFF1F1F1" FontSize="18" Grid.ColumnSpan="2"/>
+        <Button Content="Exit" HorizontalAlignment="Left" Height="41" Margin="527,339,0,0" VerticalAlignment="Top" Width="111" FontSize="20" FontWeight="Bold" Foreground="#FFEC1616" Grid.ColumnSpan="2" Click="btn_exit_click"/>
+        <Button Content="Sign in" HorizontalAlignment="Right" Height="41" Margin="0,339,427,0" VerticalAlignment="Top" Width="111" FontSize="20" FontWeight="Bold" Foreground="#FF05A805" Grid.Column="1" Click="btn_signin_click"/>
+        <Label Content="OR" HorizontalAlignment="Left" Height="41" Margin="31,436,0,0" VerticalAlignment="Top" Width="57" Background="#FF919DD3" FontSize="20" FontWeight="Bold" Padding="15,5,5,5" Grid.Column="1"/>
+        <Button Content="Create New Account" HorizontalAlignment="Left" Height="41" Margin="544,502,0,0" VerticalAlignment="Top" Width="229" FontSize="20" FontWeight="Bold" Foreground="White" Background="#FF71D86C" Click="btn_create_account_click" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
