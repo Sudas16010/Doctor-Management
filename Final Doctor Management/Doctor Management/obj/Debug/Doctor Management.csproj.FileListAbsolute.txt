@@ -1,0 +1,97 @@
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\bin\Debug\Doctor Management.exe.config
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\bin\Debug\Doctor Management.exe
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\bin\Debug\Doctor Management.pdb
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.csprojAssemblyReference.cache
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\MainWindow.g.cs
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\App.g.cs
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Doctor Management_MarkupCompile.cache
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Doctor Management_MarkupCompile.lref
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\MainWindow.baml
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.g.resources
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Doctor_Management.Properties.Resources.resources
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.csproj.GenerateResource.cache
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.csproj.CoreCompileInputs.cache
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.exe
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.pdb
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\MenuBar.g.cs
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\MenuBar.baml
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Add_Doctor.g.cs
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Add_Doctor.baml
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Update_doctor.g.cs
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Update_doctor.baml
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Delete_doctor.g.cs
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Delete_doctor.baml
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Create_new_account.g.cs
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Create_new_account.baml
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Search_doctor.g.cs
+C:\Users\Sudas Bala\Desktop\Project 2\Doctor Management\Doctor Management\obj\Debug\Search_doctor.baml
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\bin\Debug\Doctor Management.exe.config
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\bin\Debug\Doctor Management.exe
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\bin\Debug\Doctor Management.pdb
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Doctor Management.csprojAssemblyReference.cache
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Add_Doctor.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Admin_panel.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Create_new_account.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Delete_doctor.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\MainWindow.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\MenuBar.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Search_doctor.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Update_doctor.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Users_panel.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\App.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Doctor Management_MarkupCompile.cache
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Doctor Management_MarkupCompile.lref
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Add_Doctor.baml
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Create_new_account.baml
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Delete_doctor.baml
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\MainWindow.baml
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\MenuBar.baml
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Search_doctor.baml
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Update_doctor.baml
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Admin_panel.baml
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Users_panel.baml
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Doctor Management.g.resources
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Doctor_Management.Properties.Resources.resources
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Doctor Management.csproj.GenerateResource.cache
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Doctor Management.csproj.CoreCompileInputs.cache
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Doctor Management.exe
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Doctor Management.pdb
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\User_delete.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\User_delete.baml
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Total_User_id.g.cs
+C:\Users\Sudas Bala\Desktop\Doctor Management\Doctor Management\obj\Debug\Total_User_id.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\bin\Debug\Doctor Management.exe.config
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\bin\Debug\Doctor Management.exe
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\bin\Debug\Doctor Management.pdb
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.csprojAssemblyReference.cache
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Add_Doctor.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Admin_panel.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Create_new_account.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Delete_doctor.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\MainWindow.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\MenuBar.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Search_doctor.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Total_User_id.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Update_doctor.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Users_panel.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\User_delete.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\App.g.cs
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Doctor Management_MarkupCompile.cache
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Doctor Management_MarkupCompile.lref
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Add_Doctor.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Admin_panel.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Create_new_account.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Delete_doctor.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\MainWindow.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\MenuBar.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Search_doctor.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Total_User_id.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Update_doctor.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Users_panel.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\User_delete.baml
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.g.resources
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Doctor_Management.Properties.Resources.resources
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.csproj.GenerateResource.cache
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.csproj.CoreCompileInputs.cache
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.exe
+C:\Users\Sudas Bala\Desktop\3.2\Doctor Management\Doctor Management\obj\Debug\Doctor Management.pdb
